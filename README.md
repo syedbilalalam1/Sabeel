@@ -47,13 +47,15 @@ Sabeel is a comprehensive Islamic web application designed to enhance your Ramad
 
 ## UI Images
 
- <img src="https://github.com/user-attachments/assets/c3772ebd-0448-40c0-837b-fcdbc158b1af) width="400" />
- <img src="https://github.com/user-attachments/assets/d8b29e5f-9ab3-43bf-a190-90482ad3e935) width="400" />
- <img src="https://github.com/user-attachments/assets/fe8ddd1a-b555-4bf3-8735-fb136847931a) width="400" />
- <img src="https://github.com/user-attachments/assets/2b3c706f-7a39-4ed9-848c-672563724e28) width="400" />
- <img src="https://github.com/user-attachments/assets/36be68cf-afb1-4775-9cd4-295f454225e3) width="400" />
- <img src="https://github.com/user-attachments/assets/a09d6ee3-583d-4308-bdd5-01c71df83fe4) width="400" />
- <img src="https://github.com/user-attachments/assets/10671bb4-b726-480b-aca0-e070e90f8871) width="400" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c3772ebd-0448-40c0-837b-fcdbc158b1af" width="400" alt="Sabeel UI 1" />
+  <img src="https://github.com/user-attachments/assets/d8b29e5f-9ab3-43bf-a190-90482ad3e935" width="400" alt="Sabeel UI 2" />
+  <img src="https://github.com/user-attachments/assets/fe8ddd1a-b555-4bf3-8735-fb136847931a" width="400" alt="Sabeel UI 3" />
+  <img src="https://github.com/user-attachments/assets/2b3c706f-7a39-4ed9-848c-672563724e28" width="400" alt="Sabeel UI 4" />
+  <img src="https://github.com/user-attachments/assets/36be68cf-afb1-4775-9cd4-295f454225e3" width="400" alt="Sabeel UI 5" />
+  <img src="https://github.com/user-attachments/assets/a09d6ee3-583d-4308-bdd5-01c71df83fe4" width="400" alt="Sabeel UI 6" />
+  <img src="https://github.com/user-attachments/assets/10671bb4-b726-480b-aca0-e070e90f8871" width="400" alt="Sabeel UI 7" />
+</div>
 
 ## Getting Started 🚀
 
