@@ -45,6 +45,10 @@ Sabeel is a comprehensive Islamic web application designed to enhance your Ramad
   - Quran API
   - Hadith API
 
+## UI Images
+
+
+
 ## Getting Started 🚀
 
 1. Clone the repository:
@@ -81,6 +85,60 @@ NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=your_measurement_id
+```
+
+## Deployment on Render 🚀
+
+### Build and Run Commands
+
+For deployment on Render, use the following configuration:
+
+- **Build Command:**
+```bash
+npm install && npm run build
+```
+
+- **Start Command:**
+```bash
+npm start
+```
+
+### Environment Setup
+
+1. In your Render dashboard, create a new Web Service
+2. Connect your GitHub repository
+3. Choose the branch you want to deploy
+4. Set the following:
+   - **Runtime**: Node
+   - **Build Command**: `npm install && npm run build`
+   - **Start Command**: `npm start`
+5. Add all your environment variables from `.env.local` to Render's environment variables section
+6. Deploy your application
+
+### Auto-Deploy Configuration
+
+Render automatically deploys your application when you push to your repository. To ensure smooth deployments:
+
+1. Ensure your `package.json` includes:
+```json
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
+```
+
+2. Make sure all dependencies are listed in your `package.json`
+3. Set Node version in `package.json`:
+```json
+{
+  "engines": {
+    "node": ">=18.x"
+  }
+}
 ```
 
 ## Contributing 🤝
